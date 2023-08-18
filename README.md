@@ -1,0 +1,1 @@
+The app allows the user to browse different plants including their price, description, name, and type. The user can create, edit, or delete plants at any time. He/ She can also edit or delete his/ her profile.
